@@ -1,2 +1,3 @@
 # opengl
-计算机图形学opengl
+
+This repo is to save my opengl project and some notes.
